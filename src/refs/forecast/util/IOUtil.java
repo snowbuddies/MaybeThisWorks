@@ -56,7 +56,7 @@ public final class IOUtil {
     /**
      * Reads the given {@link InputStream} and returns it as byte[].
      *
-     * TODO: Very performant copy of sun.misc.IOUtils. Replace with Java 9 version.
+     *
      *
      * @param is The InputStream from which is read.
      * @param length The max number of bytes read. Use -1 to read everything.

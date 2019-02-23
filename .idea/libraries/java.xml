@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../darksky-forecast-api/darksky-forecast-api/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
